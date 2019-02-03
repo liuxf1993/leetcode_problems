@@ -1,1 +1,2 @@
 # leetcode_problems
+这是本人leetcode上解决一些hard题的思路，欢迎讨论
